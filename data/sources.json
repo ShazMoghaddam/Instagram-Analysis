@@ -1,0 +1,9 @@
+{
+  "name": "Instagram Analytics Dataset",
+  "published_by": "Kundan Bedmutha",
+  "published_at": "https://www.kaggle.com/datasets/kundanbedmutha/instagram-analytics-dataset",
+  "file": "instagram_analytics.csv, saved from Instagram_Analytics.csv on Kaggle and otherwise unchanged",
+  "rows": "29,999 posts, one per row, with no missing values",
+  "covers": "Posts dated 19 November 2024 to 19 November 2025",
+  "caution": "Every column behaves like independent random numbers. findings/README.md, finding 5, sets out the evidence."
+}
